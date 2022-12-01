@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MuteButton (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MuteButton (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
